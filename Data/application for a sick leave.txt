@@ -1,0 +1,17 @@
+ Sure, I can help you write an application for a sick leave. Here's an example:
+
+Subject: Application for Sick Leave
+
+Dear [Recipient's Name],
+
+I am writing to inform you that I am unable to attend work for the next few days due to illness. I woke up this morning feeling unwell and decided to consult a doctor. After a thorough examination, I was diagnosed with [insert illness or medical condition].
+
+The doctor has advised me to take complete rest for the next few days and avoid any strenuous activity. Therefore, I will not be able to come to work from [start date] to [end date]. I apologize for any inconvenience this may cause and assure you that I will make up for the lost time as soon as I am back to work.
+
+I have attached a medical certificate from my doctor for your reference. Please let me know if you require any further information or documentation.
+
+Thank you for your understanding and support during this time.
+
+Yours sincerely,
+
+[Your Name]

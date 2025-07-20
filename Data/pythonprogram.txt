@@ -1,0 +1,20 @@
+Certainly, I can help you with writing a Python program. Here's an example of a Python program that calculates the factorial of a number:
+```python
+# This program calculates the factorial of a number
+
+# Ask the user for a number
+number = int(input("Enter a number: "))
+
+# Initialize the factorial to 1
+factorial = 1
+
+# Calculate the factorial by multiplying the number with the factorial of the number - 1
+for i in range(1, number + 1):
+    factorial *= i
+
+# Print out the factorial
+print(f"The factorial of {number} is {factorial}.")
+```
+This program uses a `for` loop to calculate the factorial of a number by multiplying the number with the factorial of the number - 1, until the factorial of 1 is reached. The `input()` function is used to get input from the user, and the `int()` function is used to convert the input from a string to an integer. The `print()` function is used to output the result to the console.
+
+Let me know if you have any specific requirements or functionality that you would like to include in your Python program, and I would be happy to help.

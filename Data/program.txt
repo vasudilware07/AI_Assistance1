@@ -1,0 +1,16 @@
+Sure, I can help you with writing a program in Python or any other programming language. Here's an example of a simple Python program that asks the user for their name and age, and then prints out a message with their name and age:
+```python
+# This program asks the user for their name and age, and then prints out a message
+
+# Ask the user for their name
+name = input("What is your name? ")
+
+# Ask the user for their age
+age = int(input("How old are you? "))
+
+# Print out a message with the user's name and age
+print(f"Hello, {name}! You are {age} years old.")
+```
+This program uses the `input()` function to get input from the user, and the `int()` function to convert the age input from a string to an integer. The `print()` function is used to output a message to the console.
+
+Let me know if you have any specific requirements or programming language preferences, and I would be happy to create a custom program for you.
