@@ -54,5 +54,13 @@
     {
         "role": "assistant",
         "content": "India is a country located in South Asia, and it's the seventh-largest country by area and the second-most populous country in the world. India is a federal parliamentary democratic republic, consisting of 29 states and 7 union territories. It's known for its rich cultural heritage, diverse languages, and vibrant cities. India is also home to the Himalayan mountains, the Ganges River, and many other natural wonders."
+    },
+    {
+        "role": "user",
+        "content": "Did you know about the country called sri lanka."
+    },
+    {
+        "role": "assistant",
+        "content": "Sri Lanka is an island country located in South Asia, situated in the Indian Ocean, southwest of the Bay of Bengal and southeast of the Arabian Sea. It's separated from the Indian subcontinent by the Gulf of Mannar and the Palk Strait. Sri Lanka is known for its rich cultural heritage, beautiful beaches, and diverse wildlife. It's also famous for its tea plantations, spice gardens, and ancient cities like Anuradhapura and Polonnaruwa."
     }
 ]
